@@ -1,6 +1,5 @@
 # Deep-Learning
 **Omics and image data analysis code.**
-**Please visit branches in this repository to view code.**
 **Please note these are just snippets - most of my data is confidential and cannot be displayed publicly until published.**
 
 # Omics code
